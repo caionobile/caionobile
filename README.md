@@ -38,7 +38,9 @@ Passionate about technology, innovation and learning.
 <div>
 
 <br/>
-<em>"Even if you are not ready for the day, it cannot always be night"</em>
+
+#
+_"Even if you are not ready for the day, it cannot always be night"_
 
 <!--Socials-->
 
