@@ -1,4 +1,4 @@
-<img src="./header.png"/>
+[![#header]][@empty]
 
 ## About me
 
