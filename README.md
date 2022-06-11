@@ -32,8 +32,8 @@ Passionate about technology, innovation and learning.
 <br/>
 <div align=center>
     <a href="#">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caionobile&show_icons=true&theme=react&hide_rank=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caionobile&layout=compact&theme=react&card_width=450&exclude_repo=auto_tests"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=caionobile&show_icons=true&theme=react&hide_rank=true&count_private=true"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caionobile&layout=compact&theme=react&card_width=450&exclude_repo=auto_tests"/>
     <a/>
 <div>
 
