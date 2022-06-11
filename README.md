@@ -25,7 +25,6 @@ Passionate about technology, innovation and learning.
 > #### _Up Next_ &nbsp;&nbsp; ![Go][#go] ![NestJS][#nestjs] ![PostgreSQL][#postgresql] ![RabbitMQ][#rabbitmq] ![Redis][#redis] ![Blender][#blender] ![ThreeJS][#threejs] ![Apache Kafka][#apachekafka] ![GraphQL][#graphql] ![Kubernetes][#kubernetes] ![AWS][#aws]
 
 <br/>
-<br/>
 
 ## GitHub Stats
 
