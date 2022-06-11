@@ -1,4 +1,6 @@
-[![#header]][@empty]
+<header>
+    <img src="./header.png"/>
+<header/>
 
 ## About me
 
@@ -30,21 +32,17 @@ Passionate about technology, innovation and learning.
 
 <br/>
 <div align=center>
-    <a href="#">
+    <div>
         <img height="160em" src="https://github-readme-stats.vercel.app/api?username=caionobile&show_icons=true&theme=react&hide_rank=true&count_private=true"/>
         <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caionobile&layout=compact&theme=react&card_width=450&exclude_repo=auto_tests"/>
-    <a/>
-<div>
+    <div/>
+<div/>
 
 <br/>
 
 #
 
 _"Even if you are not ready for the day, it cannot always be night"_
-
-<!--Header-->
-
-[#header]: ./header.png
 
 <!--About me-->
 
