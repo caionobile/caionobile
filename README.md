@@ -1,8 +1,8 @@
-<img src="./header.png"/>
+![Header][#header]
 
 ## About me
 
-I'm a Computer Science student 👨‍💻 , currently working as a Mobile Front-End Developer 📱 at [Somei App](https://somei.com.vc/).
+I'm a Computer Science student 👨‍💻 , currently working as a Mobile Front-End Developer 📱 at [Somei App][@somei].
 
 Passionate about technology, innovation and learning.
 
@@ -12,17 +12,17 @@ Passionate about technology, innovation and learning.
 
 ## Tech Stack
 
-> #### _Programming Languages_ &nbsp;&nbsp; ![Java][#java] ![Javascript][#javascript] ![Typescript][#typescript] ![Python][#python] ![R][#r] ![Html][#html] ![Css][#css]
+> #### _Programming Languages_ &nbsp;&nbsp; [![#java]][@empty] [![#javascript]][@empty] [![#typescript]][@empty] [![#python]][@empty] [![#r]][@empty] [![#html]][@empty] [![#css]][@empty]
 >
-> #### _Frameworks and Libraries_ &nbsp;&nbsp; ![NodeJs][#nodejs] ![ReactJS][#reactjs] ![NextJS][#nextjs] ![React Native][#reactnative] ![Angular][#angular]
+> #### _Frameworks and Libraries_ &nbsp;&nbsp; [![#nodejs]][@empty] [![#reactjs]][@empty] [![#nextjs]][@empty] [![#reactnative]][@empty] [![#angular]][@empty] [![#jest]][@empty]
 >
-> #### _Tools_ &nbsp; ![Discord][#discord] ![Slack][#slack] ![Jira][#jira] ![Trello][#trello] ![Git][#git] ![Heroku][#heroku] ![Vercel][#vercel] ![Docker][#docker] ![Jest][#jest] ![Colab][#colab] ![VSCode][#vscode] ![IntelliJ][#intellij] ![PyCharm][#pycharm]
+> #### _Tools_ &nbsp; [![#discord]][@empty] [![#slack]][@empty] [![#jira]][@empty] [![#trello]][@empty] [![#git]][@empty] [![#heroku]][@empty] [![#vercel]][@empty] [![#docker]][@empty] [![#colab]][@empty] [![#vscode]][@empty] [![#intellij]][@empty] [![#pycharm]][@empty]
 >
-> #### _Databases_ &nbsp; ![MongoDB][#mongodb] ![MySQL][#mysql]
+> #### _Databases_ &nbsp; [![#mongodb]][@empty] [![#mysql]][@empty]
 >
-> #### _Learning_ &nbsp; ![Kotlin][#kotlin] ![SpringBoot][#springboot]
+> #### _Learning_ &nbsp; [![#kotlin]][@empty] [![#springboot]][@empty]
 >
-> #### _Up Next_ &nbsp;&nbsp; ![Go][#go] ![NestJS][#nestjs] ![PostgreSQL][#postgresql] ![RabbitMQ][#rabbitmq] ![Redis][#redis] ![Blender][#blender] ![ThreeJS][#threejs] ![Apache Kafka][#apachekafka] ![GraphQL][#graphql] ![Kubernetes][#kubernetes] ![AWS][#aws]
+> #### _Up Next_ &nbsp;&nbsp; [![#go]][@empty] [![#nestjs]][@empty] [![#postgresql]][@empty] [![#rabbitmq]][@empty] [![#redis]][@empty] [![#blender]][@empty] [![#threejs]][@empty] [![#apachekafka]][@empty] [![#graphql]][@empty] [![#kubernetes]][@empty] [![#aws]][@empty]
 
 <br/>
 
@@ -39,16 +39,26 @@ Passionate about technology, innovation and learning.
 <br/>
 
 #
+
 _"Even if you are not ready for the day, it cannot always be night"_
+
+<!--Header-->
+
+[#header]: ./header.png
+
+<!--About me-->
+
+[@somei]: https://somei.com.vc
 
 <!--Socials-->
 
 [#linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[@linkedin]: https://www.linkedin.com/in/caio-n%C3%B3bile-90446017a/
+[@linkedin]: https://www.linkedin.com/in/caio-n%C3%B3bile-90446017a/?locale=en_US
 [#email]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [@email]: mailto:caionobilecs@gmail.com
 [#leetcode]: https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black
 [@leetcode]: https://leetcode.com/caionobile/
+[@empty]: #
 
 <!--Programming Languages-->
 
