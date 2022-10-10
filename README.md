@@ -53,7 +53,7 @@ _"Even if you are not ready for the day, it cannot always be night"_
 <!--Socials-->
 
 [#linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[@linkedin]: https://www.linkedin.com/in/caio-n%C3%B3bile-90446017a/?locale=en_US
+[@linkedin]: https://www.linkedin.com/in/caionobile/?locale=en_US
 [#email]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [@email]: mailto:caionobilecs@gmail.com
 [#leetcode]: https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black
