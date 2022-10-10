@@ -20,9 +20,9 @@ Passionate about technology, innovation and learning.
 >
 > #### _Databases_ &nbsp; [![#mongodb]][@empty] [![#mysql]][@empty]
 >
-> #### _Learning_ &nbsp; [![#kotlin]][@empty] [![#springboot]][@empty]
+> #### _Learning_ &nbsp; [![#dart]][@empty] [![#flutter]][@empty]
 >
-> #### _Up Next_ &nbsp;&nbsp; [![#go]][@empty] [![#nestjs]][@empty] [![#postgresql]][@empty] [![#rabbitmq]][@empty] [![#redis]][@empty] [![#blender]][@empty] [![#threejs]][@empty] [![#apachekafka]][@empty] [![#graphql]][@empty] [![#kubernetes]][@empty] [![#aws]][@empty]
+> #### _Up Next_ &nbsp;&nbsp; [![#go]][@empty] [![#nestjs]][@empty] [![#postgresql]][@empty] [![#rabbitmq]][@empty] [![#redis]][@empty] [![#blender]][@empty] [![#threejs]][@empty] [![#apachekafka]][@empty] [![#graphql]][@empty] [![#kubernetes]][@empty] [![#aws]][@empty] [![#kotlin]][@empty] [![#springboot]][@empty]
 
 <br/>
 
@@ -101,11 +101,13 @@ _"Even if you are not ready for the day, it cannot always be night"_
 
 <!--Learning-->
 
-[#kotlin]: https://img.shields.io/badge/Kotlin-0095D5?&logo=kotlin&logoColor=white
-[#springboot]: https://img.shields.io/badge/Spring_Boot-F2F4F9?logo=spring-boot
+[#dart]: https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white
+[#flutter]: https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white
 
 <!--Up Next-->
 
+[#kotlin]: https://img.shields.io/badge/Kotlin-0095D5?&logo=kotlin&logoColor=white
+[#springboot]: https://img.shields.io/badge/Spring_Boot-F2F4F9?logo=spring-boot
 [#go]: https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white
 [#nestjs]: https://img.shields.io/badge/nestjs-E0234E?logo=nestjs&logoColor=white
 [#postgresql]: https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white
